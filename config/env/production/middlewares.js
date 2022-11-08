@@ -13,6 +13,7 @@ module.exports = [
                 'blob:',
                 'dl.airtable.com',
                 '*.fra1.digitaloceanspaces.com',
+                'fra1.digitaloceanspaces.com',
               ],
               'media-src': [
                 "'self'",
@@ -20,6 +21,7 @@ module.exports = [
                 'blob:',
                 'dl.airtable.com',
                 '*.fra1.digitaloceanspaces.com',
+                'fra1.digitaloceanspaces.com',
               ],
               upgradeInsecureRequests: null,
             },
